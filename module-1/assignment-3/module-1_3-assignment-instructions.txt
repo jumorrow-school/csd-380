@@ -1,0 +1,15 @@
+Assignment: The History of DevOps
+
+Research “The History of DevOps” and write a paper on your findings. Include the following as you research the topic:
+
+The Lean Movement
+The Agile Manifesto
+The Continuous Delivery Movement
+Assignment Requirements and Grading:
+
+This assignment is due by Sunday, 11:59 p.m. CST.
+Submit your assignment by clicking in the Module Assignment, then use the Attach Files icon from the toolbar (the paperclip). Select your assignment file, add the URL to your GitHub repository in the comments area, and then click on Submit.
+Click on the following for instructions: 
+GitHub_Stage_Commit_and_Push.pdf
+
+Review the Grading Rubric for further guidance.

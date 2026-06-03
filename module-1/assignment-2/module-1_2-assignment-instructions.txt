@@ -1,0 +1,15 @@
+Assignment: The Technology Value Stream
+
+Research “The Technology Value Stream” and create a 7-10 slide presentation of your findings. The presentation should include at least one graphic slide, citations where appropriate, and address the following:
+
+Defining Lead Time vs. Processing Time (page 9 of the course textbook).
+The Common Scenario: Deployment Lead Times Requiring Months (page 10 of the course textbook).
+Our DevOps Ideal: Deployment Lead Times of Minutes (page 10 of the course textbook).
+Assignment Requirements and Grading:
+
+This assignment is due by Sunday, 11:59 p.m. CST.
+Submit your assignment by clicking in the Module Assignment, then use the Attach Files icon from the toolbar (the paperclip). Select your assignment file, add the URL to your GitHub repository in the comments area, and then click on Submit.
+Click on the following for instructions: 
+GitHub_Stage_Commit_and_Push.pdf
+
+Review the Grading Rubric for further guidance.
